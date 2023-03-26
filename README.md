@@ -1,2 +1,1 @@
-# AsemCode
 # TerriconHackathonTeam26
